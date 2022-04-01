@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/php-project/static/css/main.b72c5d81.css",
+    "main.js": "/php-project/static/js/main.cd99e6f5.js",
+    "static/media/sun.png": "/php-project/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/moon.png": "/php-project/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/php-project/index.html",
+    "main.b72c5d81.css.map": "/php-project/static/css/main.b72c5d81.css.map",
+    "main.cd99e6f5.js.map": "/php-project/static/js/main.cd99e6f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b72c5d81.css",
+    "static/js/main.cd99e6f5.js"
+  ]
+}
